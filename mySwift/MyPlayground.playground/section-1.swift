@@ -197,7 +197,57 @@ gameLoop: while square < finalSquare  {
 }
 println("game over!")
 
+func printAndCount(stringToPrint:String) -> Int {
+    print(stringToPrint)
+    return countElements(stringToPrint)
+}
+
+printAndCount("this is a string")
+
+func count(string :String) ->(n:Int ,m:Int ,i:Int ,j:Int)   {
+    var n = 0, m = 0 ,i = 0 ,j = 0
+    if string.hasPrefix("str")  {
+        return (1,2,3,4)
+    }   else    {
+        return (n,m,i,j)
+    }
+}
+
+let countResult = count("string")
+print("n is \(countResult.n) ,m is \(countResult.m)")
+
+func someFunction(externalParameterName localParameterName :Int)    {
+    //some action
+}
+
+someFunction(externalParameterName: 123)
+
+func countNew(#string :String)  {
+    //some action
+}
+
+countNew(string: "这里用了#号来标识")
+
+func join(#string:String ,#toString:String, withJoiner joiner:String = " ") -> String   {
+    return string + joiner + toString
+}
+
+join(string: "Hello", toString: "world")
+
+func join1(s1: String, s2: String, joiner: String = " ") -> String {    return s1 + joiner + s2
+}
+
+join1("Hello", "world", joiner: "-")
 
 
+func arithmeticMean(numbers:Double...) ->Double {
+    var total:Double = 0
+    for number in numbers   {
+        total += number
+    }
+    return total / Double(numbers.count)
+}
+
+arithmeticMean(12.3,123,11)
 
 
