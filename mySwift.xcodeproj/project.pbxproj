@@ -13,6 +13,58 @@
 		9D4133D31A5F6F8300B3E271 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9D4133D21A5F6F8300B3E271 /* Images.xcassets */; };
 		9D4133D61A5F6F8300B3E271 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9D4133D41A5F6F8300B3E271 /* LaunchScreen.xib */; };
 		9D4133E21A5F6F8300B3E271 /* mySwiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D4133E11A5F6F8300B3E271 /* mySwiftTests.swift */; };
+		9DF4F40F1BD4D86E004B25F1 /* echarts-m-modular.html in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4F40D1BD4D86E004B25F1 /* echarts-m-modular.html */; settings = {ASSET_TAGS = (); }; };
+		9DF4F42B1BD4DD44004B25F1 /* echarts-m-plain.html in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4F42A1BD4DD44004B25F1 /* echarts-m-plain.html */; settings = {ASSET_TAGS = (); }; };
+		9DF4F4651BD4DDF5004B25F1 /* bar.js in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4F4301BD4DDF5004B25F1 /* bar.js */; settings = {ASSET_TAGS = (); }; };
+		9DF4F4661BD4DDF5004B25F1 /* chord.js in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4F4311BD4DDF5004B25F1 /* chord.js */; settings = {ASSET_TAGS = (); }; };
+		9DF4F4671BD4DDF5004B25F1 /* eventRiver.js in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4F4321BD4DDF5004B25F1 /* eventRiver.js */; settings = {ASSET_TAGS = (); }; };
+		9DF4F4681BD4DDF5004B25F1 /* force.js in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4F4331BD4DDF5004B25F1 /* force.js */; settings = {ASSET_TAGS = (); }; };
+		9DF4F4691BD4DDF5004B25F1 /* funnel.js in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4F4341BD4DDF5004B25F1 /* funnel.js */; settings = {ASSET_TAGS = (); }; };
+		9DF4F46A1BD4DDF5004B25F1 /* gauge.js in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4F4351BD4DDF5004B25F1 /* gauge.js */; settings = {ASSET_TAGS = (); }; };
+		9DF4F46B1BD4DDF5004B25F1 /* k.js in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4F4361BD4DDF5004B25F1 /* k.js */; settings = {ASSET_TAGS = (); }; };
+		9DF4F46C1BD4DDF5004B25F1 /* line.js in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4F4371BD4DDF5004B25F1 /* line.js */; settings = {ASSET_TAGS = (); }; };
+		9DF4F46D1BD4DDF5004B25F1 /* map.js in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4F4381BD4DDF5004B25F1 /* map.js */; settings = {ASSET_TAGS = (); }; };
+		9DF4F46E1BD4DDF5004B25F1 /* pie.js in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4F4391BD4DDF5004B25F1 /* pie.js */; settings = {ASSET_TAGS = (); }; };
+		9DF4F46F1BD4DDF5004B25F1 /* radar.js in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4F43A1BD4DDF5004B25F1 /* radar.js */; settings = {ASSET_TAGS = (); }; };
+		9DF4F4701BD4DDF5004B25F1 /* scatter.js in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4F43B1BD4DDF5004B25F1 /* scatter.js */; settings = {ASSET_TAGS = (); }; };
+		9DF4F4711BD4DDF5004B25F1 /* echarts-all.js in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4F43C1BD4DDF5004B25F1 /* echarts-all.js */; settings = {ASSET_TAGS = (); }; };
+		9DF4F4721BD4DDF5004B25F1 /* echarts.js in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4F43D1BD4DDF5004B25F1 /* echarts.js */; settings = {ASSET_TAGS = (); }; };
+		9DF4F4731BD4DDF5004B25F1 /* an_hui_geo.js in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4F4411BD4DDF5004B25F1 /* an_hui_geo.js */; settings = {ASSET_TAGS = (); }; };
+		9DF4F4741BD4DDF5004B25F1 /* ao_men_geo.js in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4F4421BD4DDF5004B25F1 /* ao_men_geo.js */; settings = {ASSET_TAGS = (); }; };
+		9DF4F4751BD4DDF5004B25F1 /* bei_jing_geo.js in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4F4431BD4DDF5004B25F1 /* bei_jing_geo.js */; settings = {ASSET_TAGS = (); }; };
+		9DF4F4761BD4DDF5004B25F1 /* china_geo.js in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4F4441BD4DDF5004B25F1 /* china_geo.js */; settings = {ASSET_TAGS = (); }; };
+		9DF4F4771BD4DDF5004B25F1 /* chong_qing_geo.js in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4F4451BD4DDF5004B25F1 /* chong_qing_geo.js */; settings = {ASSET_TAGS = (); }; };
+		9DF4F4781BD4DDF5004B25F1 /* fu_jian_geo.js in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4F4461BD4DDF5004B25F1 /* fu_jian_geo.js */; settings = {ASSET_TAGS = (); }; };
+		9DF4F4791BD4DDF5004B25F1 /* gan_su_geo.js in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4F4471BD4DDF5004B25F1 /* gan_su_geo.js */; settings = {ASSET_TAGS = (); }; };
+		9DF4F47A1BD4DDF5004B25F1 /* guang_dong_geo.js in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4F4481BD4DDF5004B25F1 /* guang_dong_geo.js */; settings = {ASSET_TAGS = (); }; };
+		9DF4F47B1BD4DDF5004B25F1 /* guang_xi_geo.js in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4F4491BD4DDF5004B25F1 /* guang_xi_geo.js */; settings = {ASSET_TAGS = (); }; };
+		9DF4F47C1BD4DDF5004B25F1 /* gui_zhou_geo.js in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4F44A1BD4DDF5004B25F1 /* gui_zhou_geo.js */; settings = {ASSET_TAGS = (); }; };
+		9DF4F47D1BD4DDF5004B25F1 /* hai_nan_geo.js in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4F44B1BD4DDF5004B25F1 /* hai_nan_geo.js */; settings = {ASSET_TAGS = (); }; };
+		9DF4F47E1BD4DDF5004B25F1 /* he_bei_geo.js in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4F44C1BD4DDF5004B25F1 /* he_bei_geo.js */; settings = {ASSET_TAGS = (); }; };
+		9DF4F47F1BD4DDF5004B25F1 /* he_nan_geo.js in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4F44D1BD4DDF5004B25F1 /* he_nan_geo.js */; settings = {ASSET_TAGS = (); }; };
+		9DF4F4801BD4DDF5004B25F1 /* hei_long_jiang_geo.js in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4F44E1BD4DDF5004B25F1 /* hei_long_jiang_geo.js */; settings = {ASSET_TAGS = (); }; };
+		9DF4F4811BD4DDF5004B25F1 /* hu_bei_geo.js in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4F44F1BD4DDF5004B25F1 /* hu_bei_geo.js */; settings = {ASSET_TAGS = (); }; };
+		9DF4F4821BD4DDF5004B25F1 /* hu_nan_geo.js in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4F4501BD4DDF5004B25F1 /* hu_nan_geo.js */; settings = {ASSET_TAGS = (); }; };
+		9DF4F4831BD4DDF5004B25F1 /* ji_lin_geo.js in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4F4511BD4DDF5004B25F1 /* ji_lin_geo.js */; settings = {ASSET_TAGS = (); }; };
+		9DF4F4841BD4DDF5004B25F1 /* jiang_su_geo.js in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4F4521BD4DDF5004B25F1 /* jiang_su_geo.js */; settings = {ASSET_TAGS = (); }; };
+		9DF4F4851BD4DDF5004B25F1 /* jiang_xi_geo.js in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4F4531BD4DDF5004B25F1 /* jiang_xi_geo.js */; settings = {ASSET_TAGS = (); }; };
+		9DF4F4861BD4DDF5004B25F1 /* liao_ning_geo.js in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4F4541BD4DDF5004B25F1 /* liao_ning_geo.js */; settings = {ASSET_TAGS = (); }; };
+		9DF4F4871BD4DDF5004B25F1 /* nei_meng_gu_geo.js in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4F4551BD4DDF5004B25F1 /* nei_meng_gu_geo.js */; settings = {ASSET_TAGS = (); }; };
+		9DF4F4881BD4DDF5004B25F1 /* ning_xia_geo.js in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4F4561BD4DDF5004B25F1 /* ning_xia_geo.js */; settings = {ASSET_TAGS = (); }; };
+		9DF4F4891BD4DDF5004B25F1 /* qing_hai_geo.js in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4F4571BD4DDF5004B25F1 /* qing_hai_geo.js */; settings = {ASSET_TAGS = (); }; };
+		9DF4F48A1BD4DDF5004B25F1 /* shan_dong_geo.js in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4F4581BD4DDF5004B25F1 /* shan_dong_geo.js */; settings = {ASSET_TAGS = (); }; };
+		9DF4F48B1BD4DDF5004B25F1 /* shan_xi_1_geo.js in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4F4591BD4DDF5004B25F1 /* shan_xi_1_geo.js */; settings = {ASSET_TAGS = (); }; };
+		9DF4F48C1BD4DDF5004B25F1 /* shan_xi_2_geo.js in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4F45A1BD4DDF5004B25F1 /* shan_xi_2_geo.js */; settings = {ASSET_TAGS = (); }; };
+		9DF4F48D1BD4DDF5004B25F1 /* shang_hai_geo.js in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4F45B1BD4DDF5004B25F1 /* shang_hai_geo.js */; settings = {ASSET_TAGS = (); }; };
+		9DF4F48E1BD4DDF5004B25F1 /* si_chuan_geo.js in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4F45C1BD4DDF5004B25F1 /* si_chuan_geo.js */; settings = {ASSET_TAGS = (); }; };
+		9DF4F48F1BD4DDF5004B25F1 /* tai_wan_geo.js in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4F45D1BD4DDF5004B25F1 /* tai_wan_geo.js */; settings = {ASSET_TAGS = (); }; };
+		9DF4F4901BD4DDF5004B25F1 /* tian_jin_geo.js in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4F45E1BD4DDF5004B25F1 /* tian_jin_geo.js */; settings = {ASSET_TAGS = (); }; };
+		9DF4F4911BD4DDF5004B25F1 /* world_geo.js in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4F45F1BD4DDF5004B25F1 /* world_geo.js */; settings = {ASSET_TAGS = (); }; };
+		9DF4F4921BD4DDF5004B25F1 /* xi_zang_geo.js in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4F4601BD4DDF5004B25F1 /* xi_zang_geo.js */; settings = {ASSET_TAGS = (); }; };
+		9DF4F4931BD4DDF5004B25F1 /* xiang_gang_geo.js in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4F4611BD4DDF5004B25F1 /* xiang_gang_geo.js */; settings = {ASSET_TAGS = (); }; };
+		9DF4F4941BD4DDF5004B25F1 /* xin_jiang_geo.js in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4F4621BD4DDF5004B25F1 /* xin_jiang_geo.js */; settings = {ASSET_TAGS = (); }; };
+		9DF4F4951BD4DDF5004B25F1 /* yun_nan_geo.js in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4F4631BD4DDF5004B25F1 /* yun_nan_geo.js */; settings = {ASSET_TAGS = (); }; };
+		9DF4F4961BD4DDF5004B25F1 /* zhe_jiang_geo.js in Resources */ = {isa = PBXBuildFile; fileRef = 9DF4F4641BD4DDF5004B25F1 /* zhe_jiang_geo.js */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -37,6 +89,58 @@
 		9D4133E01A5F6F8300B3E271 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9D4133E11A5F6F8300B3E271 /* mySwiftTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mySwiftTests.swift; sourceTree = "<group>"; };
 		9D4133EB1A5F744700B3E271 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
+		9DF4F40D1BD4D86E004B25F1 /* echarts-m-modular.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = "echarts-m-modular.html"; sourceTree = "<group>"; };
+		9DF4F42A1BD4DD44004B25F1 /* echarts-m-plain.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = "echarts-m-plain.html"; sourceTree = "<group>"; };
+		9DF4F4301BD4DDF5004B25F1 /* bar.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = bar.js; sourceTree = "<group>"; };
+		9DF4F4311BD4DDF5004B25F1 /* chord.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = chord.js; sourceTree = "<group>"; };
+		9DF4F4321BD4DDF5004B25F1 /* eventRiver.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = eventRiver.js; sourceTree = "<group>"; };
+		9DF4F4331BD4DDF5004B25F1 /* force.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = force.js; sourceTree = "<group>"; };
+		9DF4F4341BD4DDF5004B25F1 /* funnel.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = funnel.js; sourceTree = "<group>"; };
+		9DF4F4351BD4DDF5004B25F1 /* gauge.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = gauge.js; sourceTree = "<group>"; };
+		9DF4F4361BD4DDF5004B25F1 /* k.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = k.js; sourceTree = "<group>"; };
+		9DF4F4371BD4DDF5004B25F1 /* line.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = line.js; sourceTree = "<group>"; };
+		9DF4F4381BD4DDF5004B25F1 /* map.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = map.js; sourceTree = "<group>"; };
+		9DF4F4391BD4DDF5004B25F1 /* pie.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = pie.js; sourceTree = "<group>"; };
+		9DF4F43A1BD4DDF5004B25F1 /* radar.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = radar.js; sourceTree = "<group>"; };
+		9DF4F43B1BD4DDF5004B25F1 /* scatter.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = scatter.js; sourceTree = "<group>"; };
+		9DF4F43C1BD4DDF5004B25F1 /* echarts-all.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "echarts-all.js"; sourceTree = "<group>"; };
+		9DF4F43D1BD4DDF5004B25F1 /* echarts.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = echarts.js; sourceTree = "<group>"; };
+		9DF4F4411BD4DDF5004B25F1 /* an_hui_geo.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = an_hui_geo.js; sourceTree = "<group>"; };
+		9DF4F4421BD4DDF5004B25F1 /* ao_men_geo.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = ao_men_geo.js; sourceTree = "<group>"; };
+		9DF4F4431BD4DDF5004B25F1 /* bei_jing_geo.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = bei_jing_geo.js; sourceTree = "<group>"; };
+		9DF4F4441BD4DDF5004B25F1 /* china_geo.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = china_geo.js; sourceTree = "<group>"; };
+		9DF4F4451BD4DDF5004B25F1 /* chong_qing_geo.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = chong_qing_geo.js; sourceTree = "<group>"; };
+		9DF4F4461BD4DDF5004B25F1 /* fu_jian_geo.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = fu_jian_geo.js; sourceTree = "<group>"; };
+		9DF4F4471BD4DDF5004B25F1 /* gan_su_geo.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = gan_su_geo.js; sourceTree = "<group>"; };
+		9DF4F4481BD4DDF5004B25F1 /* guang_dong_geo.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = guang_dong_geo.js; sourceTree = "<group>"; };
+		9DF4F4491BD4DDF5004B25F1 /* guang_xi_geo.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = guang_xi_geo.js; sourceTree = "<group>"; };
+		9DF4F44A1BD4DDF5004B25F1 /* gui_zhou_geo.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = gui_zhou_geo.js; sourceTree = "<group>"; };
+		9DF4F44B1BD4DDF5004B25F1 /* hai_nan_geo.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = hai_nan_geo.js; sourceTree = "<group>"; };
+		9DF4F44C1BD4DDF5004B25F1 /* he_bei_geo.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = he_bei_geo.js; sourceTree = "<group>"; };
+		9DF4F44D1BD4DDF5004B25F1 /* he_nan_geo.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = he_nan_geo.js; sourceTree = "<group>"; };
+		9DF4F44E1BD4DDF5004B25F1 /* hei_long_jiang_geo.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = hei_long_jiang_geo.js; sourceTree = "<group>"; };
+		9DF4F44F1BD4DDF5004B25F1 /* hu_bei_geo.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = hu_bei_geo.js; sourceTree = "<group>"; };
+		9DF4F4501BD4DDF5004B25F1 /* hu_nan_geo.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = hu_nan_geo.js; sourceTree = "<group>"; };
+		9DF4F4511BD4DDF5004B25F1 /* ji_lin_geo.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = ji_lin_geo.js; sourceTree = "<group>"; };
+		9DF4F4521BD4DDF5004B25F1 /* jiang_su_geo.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = jiang_su_geo.js; sourceTree = "<group>"; };
+		9DF4F4531BD4DDF5004B25F1 /* jiang_xi_geo.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = jiang_xi_geo.js; sourceTree = "<group>"; };
+		9DF4F4541BD4DDF5004B25F1 /* liao_ning_geo.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = liao_ning_geo.js; sourceTree = "<group>"; };
+		9DF4F4551BD4DDF5004B25F1 /* nei_meng_gu_geo.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = nei_meng_gu_geo.js; sourceTree = "<group>"; };
+		9DF4F4561BD4DDF5004B25F1 /* ning_xia_geo.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = ning_xia_geo.js; sourceTree = "<group>"; };
+		9DF4F4571BD4DDF5004B25F1 /* qing_hai_geo.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = qing_hai_geo.js; sourceTree = "<group>"; };
+		9DF4F4581BD4DDF5004B25F1 /* shan_dong_geo.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = shan_dong_geo.js; sourceTree = "<group>"; };
+		9DF4F4591BD4DDF5004B25F1 /* shan_xi_1_geo.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = shan_xi_1_geo.js; sourceTree = "<group>"; };
+		9DF4F45A1BD4DDF5004B25F1 /* shan_xi_2_geo.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = shan_xi_2_geo.js; sourceTree = "<group>"; };
+		9DF4F45B1BD4DDF5004B25F1 /* shang_hai_geo.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = shang_hai_geo.js; sourceTree = "<group>"; };
+		9DF4F45C1BD4DDF5004B25F1 /* si_chuan_geo.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = si_chuan_geo.js; sourceTree = "<group>"; };
+		9DF4F45D1BD4DDF5004B25F1 /* tai_wan_geo.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = tai_wan_geo.js; sourceTree = "<group>"; };
+		9DF4F45E1BD4DDF5004B25F1 /* tian_jin_geo.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = tian_jin_geo.js; sourceTree = "<group>"; };
+		9DF4F45F1BD4DDF5004B25F1 /* world_geo.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = world_geo.js; sourceTree = "<group>"; };
+		9DF4F4601BD4DDF5004B25F1 /* xi_zang_geo.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = xi_zang_geo.js; sourceTree = "<group>"; };
+		9DF4F4611BD4DDF5004B25F1 /* xiang_gang_geo.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = xiang_gang_geo.js; sourceTree = "<group>"; };
+		9DF4F4621BD4DDF5004B25F1 /* xin_jiang_geo.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = xin_jiang_geo.js; sourceTree = "<group>"; };
+		9DF4F4631BD4DDF5004B25F1 /* yun_nan_geo.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = yun_nan_geo.js; sourceTree = "<group>"; };
+		9DF4F4641BD4DDF5004B25F1 /* zhe_jiang_geo.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = zhe_jiang_geo.js; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +182,9 @@
 		9D4133C81A5F6F8300B3E271 /* mySwift */ = {
 			isa = PBXGroup;
 			children = (
+				9DF4F42E1BD4DDF5004B25F1 /* dist */,
+				9DF4F40D1BD4D86E004B25F1 /* echarts-m-modular.html */,
+				9DF4F42A1BD4DD44004B25F1 /* echarts-m-plain.html */,
 				9D4133CB1A5F6F8300B3E271 /* AppDelegate.swift */,
 				9D4133CD1A5F6F8300B3E271 /* ViewController.swift */,
 				9D4133CF1A5F6F8300B3E271 /* Main.storyboard */,
@@ -112,6 +219,95 @@
 				9D4133E01A5F6F8300B3E271 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		9DF4F42E1BD4DDF5004B25F1 /* dist */ = {
+			isa = PBXGroup;
+			children = (
+				9DF4F42F1BD4DDF5004B25F1 /* chart */,
+				9DF4F43C1BD4DDF5004B25F1 /* echarts-all.js */,
+				9DF4F43D1BD4DDF5004B25F1 /* echarts.js */,
+				9DF4F43E1BD4DDF5004B25F1 /* util */,
+			);
+			path = dist;
+			sourceTree = "<group>";
+		};
+		9DF4F42F1BD4DDF5004B25F1 /* chart */ = {
+			isa = PBXGroup;
+			children = (
+				9DF4F4301BD4DDF5004B25F1 /* bar.js */,
+				9DF4F4311BD4DDF5004B25F1 /* chord.js */,
+				9DF4F4321BD4DDF5004B25F1 /* eventRiver.js */,
+				9DF4F4331BD4DDF5004B25F1 /* force.js */,
+				9DF4F4341BD4DDF5004B25F1 /* funnel.js */,
+				9DF4F4351BD4DDF5004B25F1 /* gauge.js */,
+				9DF4F4361BD4DDF5004B25F1 /* k.js */,
+				9DF4F4371BD4DDF5004B25F1 /* line.js */,
+				9DF4F4381BD4DDF5004B25F1 /* map.js */,
+				9DF4F4391BD4DDF5004B25F1 /* pie.js */,
+				9DF4F43A1BD4DDF5004B25F1 /* radar.js */,
+				9DF4F43B1BD4DDF5004B25F1 /* scatter.js */,
+			);
+			path = chart;
+			sourceTree = "<group>";
+		};
+		9DF4F43E1BD4DDF5004B25F1 /* util */ = {
+			isa = PBXGroup;
+			children = (
+				9DF4F43F1BD4DDF5004B25F1 /* mapData */,
+			);
+			path = util;
+			sourceTree = "<group>";
+		};
+		9DF4F43F1BD4DDF5004B25F1 /* mapData */ = {
+			isa = PBXGroup;
+			children = (
+				9DF4F4401BD4DDF5004B25F1 /* geoJson */,
+			);
+			path = mapData;
+			sourceTree = "<group>";
+		};
+		9DF4F4401BD4DDF5004B25F1 /* geoJson */ = {
+			isa = PBXGroup;
+			children = (
+				9DF4F4411BD4DDF5004B25F1 /* an_hui_geo.js */,
+				9DF4F4421BD4DDF5004B25F1 /* ao_men_geo.js */,
+				9DF4F4431BD4DDF5004B25F1 /* bei_jing_geo.js */,
+				9DF4F4441BD4DDF5004B25F1 /* china_geo.js */,
+				9DF4F4451BD4DDF5004B25F1 /* chong_qing_geo.js */,
+				9DF4F4461BD4DDF5004B25F1 /* fu_jian_geo.js */,
+				9DF4F4471BD4DDF5004B25F1 /* gan_su_geo.js */,
+				9DF4F4481BD4DDF5004B25F1 /* guang_dong_geo.js */,
+				9DF4F4491BD4DDF5004B25F1 /* guang_xi_geo.js */,
+				9DF4F44A1BD4DDF5004B25F1 /* gui_zhou_geo.js */,
+				9DF4F44B1BD4DDF5004B25F1 /* hai_nan_geo.js */,
+				9DF4F44C1BD4DDF5004B25F1 /* he_bei_geo.js */,
+				9DF4F44D1BD4DDF5004B25F1 /* he_nan_geo.js */,
+				9DF4F44E1BD4DDF5004B25F1 /* hei_long_jiang_geo.js */,
+				9DF4F44F1BD4DDF5004B25F1 /* hu_bei_geo.js */,
+				9DF4F4501BD4DDF5004B25F1 /* hu_nan_geo.js */,
+				9DF4F4511BD4DDF5004B25F1 /* ji_lin_geo.js */,
+				9DF4F4521BD4DDF5004B25F1 /* jiang_su_geo.js */,
+				9DF4F4531BD4DDF5004B25F1 /* jiang_xi_geo.js */,
+				9DF4F4541BD4DDF5004B25F1 /* liao_ning_geo.js */,
+				9DF4F4551BD4DDF5004B25F1 /* nei_meng_gu_geo.js */,
+				9DF4F4561BD4DDF5004B25F1 /* ning_xia_geo.js */,
+				9DF4F4571BD4DDF5004B25F1 /* qing_hai_geo.js */,
+				9DF4F4581BD4DDF5004B25F1 /* shan_dong_geo.js */,
+				9DF4F4591BD4DDF5004B25F1 /* shan_xi_1_geo.js */,
+				9DF4F45A1BD4DDF5004B25F1 /* shan_xi_2_geo.js */,
+				9DF4F45B1BD4DDF5004B25F1 /* shang_hai_geo.js */,
+				9DF4F45C1BD4DDF5004B25F1 /* si_chuan_geo.js */,
+				9DF4F45D1BD4DDF5004B25F1 /* tai_wan_geo.js */,
+				9DF4F45E1BD4DDF5004B25F1 /* tian_jin_geo.js */,
+				9DF4F45F1BD4DDF5004B25F1 /* world_geo.js */,
+				9DF4F4601BD4DDF5004B25F1 /* xi_zang_geo.js */,
+				9DF4F4611BD4DDF5004B25F1 /* xiang_gang_geo.js */,
+				9DF4F4621BD4DDF5004B25F1 /* xin_jiang_geo.js */,
+				9DF4F4631BD4DDF5004B25F1 /* yun_nan_geo.js */,
+				9DF4F4641BD4DDF5004B25F1 /* zhe_jiang_geo.js */,
+			);
+			path = geoJson;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -164,6 +360,7 @@
 				TargetAttributes = {
 					9D4133C51A5F6F8300B3E271 = {
 						CreatedOnToolsVersion = 6.2;
+						DevelopmentTeam = 7UAW7NKQRW;
 					};
 					9D4133DA1A5F6F8300B3E271 = {
 						CreatedOnToolsVersion = 6.2;
@@ -195,9 +392,61 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9DF4F46B1BD4DDF5004B25F1 /* k.js in Resources */,
+				9DF4F47D1BD4DDF5004B25F1 /* hai_nan_geo.js in Resources */,
+				9DF4F47C1BD4DDF5004B25F1 /* gui_zhou_geo.js in Resources */,
+				9DF4F4741BD4DDF5004B25F1 /* ao_men_geo.js in Resources */,
+				9DF4F4901BD4DDF5004B25F1 /* tian_jin_geo.js in Resources */,
+				9DF4F4961BD4DDF5004B25F1 /* zhe_jiang_geo.js in Resources */,
+				9DF4F4821BD4DDF5004B25F1 /* hu_nan_geo.js in Resources */,
+				9DF4F4711BD4DDF5004B25F1 /* echarts-all.js in Resources */,
+				9DF4F4791BD4DDF5004B25F1 /* gan_su_geo.js in Resources */,
+				9DF4F4751BD4DDF5004B25F1 /* bei_jing_geo.js in Resources */,
+				9DF4F4931BD4DDF5004B25F1 /* xiang_gang_geo.js in Resources */,
+				9DF4F48F1BD4DDF5004B25F1 /* tai_wan_geo.js in Resources */,
 				9D4133D11A5F6F8300B3E271 /* Main.storyboard in Resources */,
+				9DF4F4661BD4DDF5004B25F1 /* chord.js in Resources */,
+				9DF4F47F1BD4DDF5004B25F1 /* he_nan_geo.js in Resources */,
+				9DF4F4701BD4DDF5004B25F1 /* scatter.js in Resources */,
+				9DF4F4891BD4DDF5004B25F1 /* qing_hai_geo.js in Resources */,
+				9DF4F46F1BD4DDF5004B25F1 /* radar.js in Resources */,
+				9DF4F4861BD4DDF5004B25F1 /* liao_ning_geo.js in Resources */,
+				9DF4F48B1BD4DDF5004B25F1 /* shan_xi_1_geo.js in Resources */,
+				9DF4F4951BD4DDF5004B25F1 /* yun_nan_geo.js in Resources */,
+				9DF4F47A1BD4DDF5004B25F1 /* guang_dong_geo.js in Resources */,
+				9DF4F4671BD4DDF5004B25F1 /* eventRiver.js in Resources */,
+				9DF4F4871BD4DDF5004B25F1 /* nei_meng_gu_geo.js in Resources */,
+				9DF4F4911BD4DDF5004B25F1 /* world_geo.js in Resources */,
+				9DF4F47E1BD4DDF5004B25F1 /* he_bei_geo.js in Resources */,
+				9DF4F48C1BD4DDF5004B25F1 /* shan_xi_2_geo.js in Resources */,
+				9DF4F4921BD4DDF5004B25F1 /* xi_zang_geo.js in Resources */,
+				9DF4F4761BD4DDF5004B25F1 /* china_geo.js in Resources */,
+				9DF4F42B1BD4DD44004B25F1 /* echarts-m-plain.html in Resources */,
+				9DF4F46A1BD4DDF5004B25F1 /* gauge.js in Resources */,
+				9DF4F4881BD4DDF5004B25F1 /* ning_xia_geo.js in Resources */,
+				9DF4F4851BD4DDF5004B25F1 /* jiang_xi_geo.js in Resources */,
+				9DF4F4831BD4DDF5004B25F1 /* ji_lin_geo.js in Resources */,
 				9D4133D61A5F6F8300B3E271 /* LaunchScreen.xib in Resources */,
+				9DF4F46C1BD4DDF5004B25F1 /* line.js in Resources */,
+				9DF4F48E1BD4DDF5004B25F1 /* si_chuan_geo.js in Resources */,
+				9DF4F4721BD4DDF5004B25F1 /* echarts.js in Resources */,
+				9DF4F4731BD4DDF5004B25F1 /* an_hui_geo.js in Resources */,
+				9DF4F40F1BD4D86E004B25F1 /* echarts-m-modular.html in Resources */,
+				9DF4F4691BD4DDF5004B25F1 /* funnel.js in Resources */,
+				9DF4F47B1BD4DDF5004B25F1 /* guang_xi_geo.js in Resources */,
+				9DF4F4801BD4DDF5004B25F1 /* hei_long_jiang_geo.js in Resources */,
+				9DF4F4681BD4DDF5004B25F1 /* force.js in Resources */,
+				9DF4F4841BD4DDF5004B25F1 /* jiang_su_geo.js in Resources */,
+				9DF4F48D1BD4DDF5004B25F1 /* shang_hai_geo.js in Resources */,
+				9DF4F4771BD4DDF5004B25F1 /* chong_qing_geo.js in Resources */,
+				9DF4F46E1BD4DDF5004B25F1 /* pie.js in Resources */,
+				9DF4F4651BD4DDF5004B25F1 /* bar.js in Resources */,
 				9D4133D31A5F6F8300B3E271 /* Images.xcassets in Resources */,
+				9DF4F46D1BD4DDF5004B25F1 /* map.js in Resources */,
+				9DF4F48A1BD4DDF5004B25F1 /* shan_dong_geo.js in Resources */,
+				9DF4F4811BD4DDF5004B25F1 /* hu_bei_geo.js in Resources */,
+				9DF4F4941BD4DDF5004B25F1 /* xin_jiang_geo.js in Resources */,
+				9DF4F4781BD4DDF5004B25F1 /* fu_jian_geo.js in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

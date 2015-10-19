@@ -8,11 +8,20 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class ViewController: UIViewController   {
+    @IBOutlet var myWebView: UIWebView!
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        println("hello world")
+        self.title = "ECharts"
+        self.myWebView.loadRequest(NSURLRequest(
+            URL: NSURL(
+                fileURLWithPath: NSBundle.mainBundle().pathForResource("echarts-m-plain", ofType: "html"
+                )!
+            )
+        ))
+        
+        self.myWebView.scalesPageToFit = true
         // Do any additional setup after loading the view, typically from a nib.
     }
 
