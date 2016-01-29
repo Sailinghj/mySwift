@@ -44,6 +44,7 @@
 		9D93025B1BD63EC00036B778 /* dist */ = {isa = PBXFileReference; lastKnownFileType = folder; path = dist; sourceTree = "<group>"; };
 		9DF4F40D1BD4D86E004B25F1 /* echarts-m-modular.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = "echarts-m-modular.html"; sourceTree = "<group>"; };
 		9DF4F42A1BD4DD44004B25F1 /* echarts-m-plain.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = "echarts-m-plain.html"; sourceTree = "<group>"; };
+		9DF6B5871C27CD8C009EA76F /* ErrorHanding.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ErrorHanding.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +97,7 @@
 				9D4133D41A5F6F8300B3E271 /* LaunchScreen.xib */,
 				9D4133C91A5F6F8300B3E271 /* Supporting Files */,
 				9D4133EB1A5F744700B3E271 /* MyPlayground.playground */,
+				9DF6B5871C27CD8C009EA76F /* ErrorHanding.playground */,
 			);
 			path = mySwift;
 			sourceTree = "<group>";

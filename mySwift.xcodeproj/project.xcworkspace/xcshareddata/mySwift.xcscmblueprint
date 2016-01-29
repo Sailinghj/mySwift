@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "68138DCB753EDB1F3C2015A3B3C8FC86961610BB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2FB96A923CE1BAF1783FE3AC8D1CD2FD30AD42A3" : 0,
+    "68138DCB753EDB1F3C2015A3B3C8FC86961610BB" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "DD8D1DAD-34E4-442D-B099-8BCBAE877D26",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2FB96A923CE1BAF1783FE3AC8D1CD2FD30AD42A3" : "",
+    "68138DCB753EDB1F3C2015A3B3C8FC86961610BB" : "mySwift"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "mySwift",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "mySwift.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Sailinghj\/mySwift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2FB96A923CE1BAF1783FE3AC8D1CD2FD30AD42A3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Sailinghj\/mySwift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "68138DCB753EDB1F3C2015A3B3C8FC86961610BB"
+    }
+  ]
+}
